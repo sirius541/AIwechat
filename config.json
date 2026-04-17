@@ -1,0 +1,70 @@
+{
+  "models": [
+    {
+      "id": "glm-5",
+      "name": "GLM",
+      "display_name": "智谱 GLM-5",
+      "emoji": "🤖",
+      "color": "#07C160",
+      "type": "openai_compat",
+      "api_key": "zyb-8bbe84c88ee21506dfad04ff7a48b5f9@ocr",
+      "base_url": "https://openproxy-cn.zuoyebang.cc/openproxy/rp/v1/chat/completions",
+      "description": "智谱AI，擅长中文对话与推理"
+    },
+    {
+      "id": "qwen3.6-plus",
+      "name": "Qwen",
+      "display_name": "通义千问",
+      "emoji": "🧠",
+      "color": "#FF6B35",
+      "type": "openai_compat",
+      "api_key": "zyb-8bbe84c88ee21506dfad04ff7a48b5f9@ocr",
+      "base_url": "https://openproxy-cn.zuoyebang.cc/openproxy/rp/v1/chat/completions",
+      "description": "阿里云通义千问，多模态理解能力强"
+    },
+    {
+      "id": "gpt-5.4",
+      "name": "ChatGPT",
+      "display_name": "ChatGPT",
+      "emoji": "🔭",
+      "color": "#4A90E2",
+      "type": "openai_compat",
+      "api_key": "zyb-8bbe84c88ee21506dfad04ff7a48b5f9@ocr",
+      "base_url": "https://llm.baifentan.com/openproxy/rp/v1/chat/completions",
+      "description": "深度求索，强大推理与代码能力"
+    },
+    {
+      "id": "claude-sonnet-4-6",
+      "name": "Claude",
+      "display_name": "Claude",
+      "emoji": "😊",
+      "color": "#7C4DFF",
+      "type": "openai_compat",
+      "api_key": "zyb-8bbe84c88ee21506dfad04ff7a48b5f9@ocr",
+      "base_url": "https://llm.baifentan.com/openproxy/rp/v1/chat/completions",
+      "description": "强大的编程能力"
+    },
+    {
+      "id": "gemini-3.1-flash-lite-preview",
+      "name": "Gemini",
+      "display_name": "Gemini",
+      "emoji": "🫘",
+      "color": "#FF4757",
+      "type": "openai_compat",
+      "api_key": "zyb-8bbe84c88ee21506dfad04ff7a48b5f9@ocr",
+      "base_url": "https://llm.baifentan.com/openproxy/rp/v1/chat/completions",
+      "description": "强大的创意写作能力"
+    },
+    {
+      "id": "kimi-k2.5",
+      "name": "Kimi",
+      "display_name": "Kimi",
+      "emoji": "🌙",
+      "color": "#2979FF",
+      "type": "openai_compat",
+      "api_key": "zyb-8bbe84c88ee21506dfad04ff7a48b5f9@ocr",
+      "base_url": "https://openproxy-cn.zuoyebang.cc/openproxy/rp/v1/chat/completions",
+      "description": "Kimi，中文写作与知识问答"
+    }
+  ]
+}
